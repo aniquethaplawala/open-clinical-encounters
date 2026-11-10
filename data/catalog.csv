@@ -1,0 +1,537 @@
+id,source,specialty,visit_reason,license,word_count,has_note,has_audio,mentions_vendor_product
+aci-D2N168,aci-bench,Primary care,ER follow-up,CC BY 4.0,885,True,False,True
+aci-D2N169,aci-bench,Pulmonology,shortness of breath,CC BY 4.0,773,True,False,False
+aci-D2N170,aci-bench,Primary care,abnormal lab finding,CC BY 4.0,1141,True,False,True
+aci-D2N171,aci-bench,Primary care,annual exam,CC BY 4.0,1020,True,False,True
+aci-D2N172,aci-bench,Primary care,abnormal labs,CC BY 4.0,560,True,False,True
+aci-D2N173,aci-bench,Pulmonology,upper respiratory infection,CC BY 4.0,744,True,False,True
+aci-D2N174,aci-bench,Orthopedics & musculoskeletal,joint pain,CC BY 4.0,913,True,False,True
+aci-D2N175,aci-bench,Primary care,abnormal labs,CC BY 4.0,880,True,False,True
+aci-D2N176,aci-bench,Primary care,chronic problems,CC BY 4.0,668,True,False,True
+aci-D2N177,aci-bench,Primary care,chronic problems,CC BY 4.0,1053,True,False,True
+aci-D2N178,aci-bench,Endocrinology,diabetes follow up,CC BY 4.0,1279,True,False,False
+aci-D2N179,aci-bench,Orthopedics & musculoskeletal,numbness and tingling of hands,CC BY 4.0,813,True,False,False
+aci-D2N180,aci-bench,Orthopedics & musculoskeletal,bilateral hand numbness and tingling,CC BY 4.0,692,True,False,False
+aci-D2N181,aci-bench,Gastroenterology,acid reflux,CC BY 4.0,1030,True,False,False
+aci-D2N182,aci-bench,Primary care,follow up visit,CC BY 4.0,1775,True,False,False
+aci-D2N183,aci-bench,Dermatology,follow up acne,CC BY 4.0,793,True,False,False
+aci-D2N184,aci-bench,Orthopedics & musculoskeletal,postoperative right medial knee unicompartmental arthroplasty follow up,CC BY 4.0,659,True,False,False
+aci-D2N185,aci-bench,Nephrology & urology,abnormal renal ultrasound with atrophic right kidney,CC BY 4.0,2154,True,False,False
+aci-D2N186,aci-bench,Orthopedics & musculoskeletal,Left sided low back pain,CC BY 4.0,730,True,False,False
+aci-D2N187,aci-bench,Ophthalmology,changes in vision,CC BY 4.0,847,True,False,False
+aci-D2N188,aci-bench,Orthopedics & musculoskeletal,Right ankle injury,CC BY 4.0,727,True,False,False
+aci-D2N189,aci-bench,Primary care,follow up,CC BY 4.0,1264,True,False,False
+aci-D2N190,aci-bench,Orthopedics & musculoskeletal,right knee pain,CC BY 4.0,1985,True,False,False
+aci-D2N191,aci-bench,Orthopedics & musculoskeletal,left arm pain,CC BY 4.0,1369,True,False,False
+aci-D2N192,aci-bench,Gastroenterology,abdominal pain,CC BY 4.0,1598,True,False,False
+aci-D2N193,aci-bench,Pulmonology,cough,CC BY 4.0,1316,True,False,False
+aci-D2N194,aci-bench,Orthopedics & musculoskeletal,Left shoulder pain,CC BY 4.0,977,True,False,False
+aci-D2N195,aci-bench,Orthopedics & musculoskeletal,right knee pain,CC BY 4.0,1437,True,False,False
+aci-D2N196,aci-bench,Cardiology,elevated and fluctuating BP,CC BY 4.0,1453,True,False,False
+aci-D2N197,aci-bench,Neurology,headache,CC BY 4.0,951,True,False,False
+aci-D2N198,aci-bench,Orthopedics & musculoskeletal,back pain,CC BY 4.0,1619,True,False,False
+aci-D2N199,aci-bench,Pulmonology,cough,CC BY 4.0,1793,True,False,False
+aci-D2N200,aci-bench,Cardiology,headache and high blood pressure,CC BY 4.0,1471,True,False,False
+aci-D2N201,aci-bench,Orthopedics & musculoskeletal,back pain,CC BY 4.0,1853,True,False,False
+aci-D2N202,aci-bench,Orthopedics & musculoskeletal,Right Shoulder pain,CC BY 4.0,938,True,False,False
+aci-D2N203,aci-bench,Ophthalmology,wet macular degeneration,CC BY 4.0,1366,True,False,False
+aci-D2N204,aci-bench,Orthopedics & musculoskeletal,right knee injury,CC BY 4.0,971,True,False,False
+aci-D2N205,aci-bench,Pulmonology,follow-up for lung cancer,CC BY 4.0,1303,True,False,False
+aci-D2N206,aci-bench,Nephrology & urology,Right flank pain,CC BY 4.0,1112,True,False,False
+aci-D2N207,aci-bench,Cardiology,heart failure exacerbation,CC BY 4.0,1846,True,False,False
+aci-D2N088,aci-bench,Pulmonology,upper respiratory infection,CC BY 4.0,1176,True,False,True
+aci-D2N089,aci-bench,Primary care,annual exam,CC BY 4.0,976,True,False,True
+aci-D2N090,aci-bench,Primary care,ER follow-up,CC BY 4.0,1089,True,False,True
+aci-D2N091,aci-bench,Primary care,annual exam,CC BY 4.0,576,True,False,True
+aci-D2N092,aci-bench,Orthopedics & musculoskeletal,right arm pain,CC BY 4.0,506,True,False,False
+aci-D2N093,aci-bench,Pulmonology,shortness of breath,CC BY 4.0,1112,True,False,True
+aci-D2N094,aci-bench,Orthopedics & musculoskeletal,right index finger pain,CC BY 4.0,517,True,False,False
+aci-D2N095,aci-bench,Orthopedics & musculoskeletal,back pain,CC BY 4.0,943,True,False,True
+aci-D2N096,aci-bench,Orthopedics & musculoskeletal,left shoulder pain,CC BY 4.0,585,True,False,False
+aci-D2N097,aci-bench,Primary care,annual exam,CC BY 4.0,790,True,False,True
+aci-D2N098,aci-bench,Orthopedics & musculoskeletal,left shoulder and elbow pain,CC BY 4.0,775,True,False,False
+aci-D2N099,aci-bench,Pulmonology,Cough; nasal congestion; rhinorrhea,CC BY 4.0,1436,True,False,False
+aci-D2N100,aci-bench,Dermatology,acne,CC BY 4.0,772,True,False,False
+aci-D2N101,aci-bench,Women's health,macromastia,CC BY 4.0,1946,True,False,False
+aci-D2N102,aci-bench,Nephrology & urology,hematuria,CC BY 4.0,725,True,False,False
+aci-D2N103,aci-bench,Cardiology,follow up on mitral valve repair,CC BY 4.0,881,True,False,False
+aci-D2N104,aci-bench,Orthopedics & musculoskeletal,Psoriatic arthritis,CC BY 4.0,609,True,False,False
+aci-D2N105,aci-bench,Cardiology,heart murmur,CC BY 4.0,1850,True,False,False
+aci-D2N106,aci-bench,Pulmonology,Allergic asthma,CC BY 4.0,759,True,False,False
+aci-D2N107,aci-bench,Orthopedics & musculoskeletal,Low back pain,CC BY 4.0,864,True,False,False
+aci-D2N108,aci-bench,Orthopedics & musculoskeletal,right foot ulcer,CC BY 4.0,983,True,False,False
+aci-D2N109,aci-bench,Orthopedics & musculoskeletal,Left ankle pain,CC BY 4.0,1020,True,False,False
+aci-D2N110,aci-bench,Orthopedics & musculoskeletal,evaluation of right foot wound,CC BY 4.0,844,True,False,False
+aci-D2N111,aci-bench,Orthopedics & musculoskeletal,right knee injury,CC BY 4.0,1235,True,False,False
+aci-D2N112,aci-bench,Orthopedics & musculoskeletal,back pain,CC BY 4.0,1317,True,False,False
+aci-D2N113,aci-bench,Gastroenterology,Hepatitis C,CC BY 4.0,971,True,False,False
+aci-D2N114,aci-bench,Neurology,headaches,CC BY 4.0,1201,True,False,False
+aci-D2N115,aci-bench,Orthopedics & musculoskeletal,neck pain,CC BY 4.0,898,True,False,False
+aci-D2N116,aci-bench,Orthopedics & musculoskeletal,Right shoulder pain,CC BY 4.0,1006,True,False,False
+aci-D2N117,aci-bench,Orthopedics & musculoskeletal,elbow pain,CC BY 4.0,1748,True,False,False
+aci-D2N118,aci-bench,Nephrology & urology,Kidney stone,CC BY 4.0,1643,True,False,False
+aci-D2N119,aci-bench,Pulmonology,asthma,CC BY 4.0,1640,True,False,False
+aci-D2N120,aci-bench,Orthopedics & musculoskeletal,back pain,CC BY 4.0,956,True,False,False
+aci-D2N121,aci-bench,Orthopedics & musculoskeletal,right knee pain,CC BY 4.0,1231,True,False,False
+aci-D2N122,aci-bench,Pulmonology,cough,CC BY 4.0,1252,True,False,False
+aci-D2N123,aci-bench,Gastroenterology,Difficulty swallowing,CC BY 4.0,1389,True,False,False
+aci-D2N124,aci-bench,Orthopedics & musculoskeletal,right ankle injury,CC BY 4.0,970,True,False,False
+aci-D2N125,aci-bench,Neurology,Right-sided facial pain,CC BY 4.0,1226,True,False,False
+aci-D2N126,aci-bench,Orthopedics & musculoskeletal,right knee injury,CC BY 4.0,942,True,False,False
+aci-D2N127,aci-bench,Orthopedics & musculoskeletal,neck pain,CC BY 4.0,1634,True,False,False
+aci-D2N128,aci-bench,Primary care,chronic problems,CC BY 4.0,788,True,False,False
+aci-D2N129,aci-bench,Primary care,annual exam,CC BY 4.0,820,True,False,True
+aci-D2N130,aci-bench,Orthopedics & musculoskeletal,joint pain,CC BY 4.0,1127,True,False,True
+aci-D2N131,aci-bench,Cardiology,high blood pressure check,CC BY 4.0,609,True,False,False
+aci-D2N132,aci-bench,Orthopedics & musculoskeletal,back pain,CC BY 4.0,566,True,False,False
+aci-D2N133,aci-bench,Orthopedics & musculoskeletal,joint pain,CC BY 4.0,876,True,False,True
+aci-D2N134,aci-bench,Primary care,abnormal labs for Lyme titer,CC BY 4.0,1082,True,False,True
+aci-D2N135,aci-bench,Endocrinology,high blood sugar,CC BY 4.0,956,True,False,False
+aci-D2N136,aci-bench,Orthopedics & musculoskeletal,joint pain knees bilaterally,CC BY 4.0,800,True,False,False
+aci-D2N137,aci-bench,Primary care,annual exam,CC BY 4.0,822,True,False,True
+aci-D2N138,aci-bench,Pulmonology,follow up for asthma; allergic rhinitis; food allergy,CC BY 4.0,2207,True,False,True
+aci-D2N139,aci-bench,Cardiology,high blood pressure; palpitations,CC BY 4.0,1579,True,False,False
+aci-D2N140,aci-bench,Gastroenterology,IBS,CC BY 4.0,1380,True,False,False
+aci-D2N141,aci-bench,Neurology,Follow up adult hydrocephalus,CC BY 4.0,1297,True,False,False
+aci-D2N142,aci-bench,Cardiology,hypertension,CC BY 4.0,1219,True,False,False
+aci-D2N143,aci-bench,Women's health,full spectrum STD testing,CC BY 4.0,589,True,False,False
+aci-D2N144,aci-bench,Orthopedics & musculoskeletal,rheumatoid arthritis,CC BY 4.0,1010,True,False,False
+aci-D2N145,aci-bench,Dermatology,perioral dermatitis,CC BY 4.0,1889,True,False,False
+aci-D2N146,aci-bench,Gastroenterology,abdominal pain,CC BY 4.0,1767,True,False,False
+aci-D2N147,aci-bench,Orthopedics & musculoskeletal,Right shoulder injury,CC BY 4.0,1109,True,False,False
+aci-D2N148,aci-bench,Orthopedics & musculoskeletal,low back pain,CC BY 4.0,1140,True,False,False
+aci-D2N149,aci-bench,Pulmonology,shortness of breath with hemoptysis,CC BY 4.0,1305,True,False,False
+aci-D2N150,aci-bench,Orthopedics & musculoskeletal,right knee injury,CC BY 4.0,1132,True,False,False
+aci-D2N151,aci-bench,Orthopedics & musculoskeletal,right elbow pain,CC BY 4.0,2432,True,False,False
+aci-D2N152,aci-bench,Orthopedics & musculoskeletal,back pain,CC BY 4.0,1595,True,False,False
+aci-D2N153,aci-bench,Orthopedics & musculoskeletal,LCL strain of the right knee,CC BY 4.0,1146,True,False,False
+aci-D2N154,aci-bench,Orthopedics & musculoskeletal,right heel pain,CC BY 4.0,1239,True,False,False
+aci-D2N155,aci-bench,Orthopedics & musculoskeletal,non-healing right foot ulcer,CC BY 4.0,1012,True,False,False
+aci-D2N156,aci-bench,Cardiology,follow-up status post inferior STEM,CC BY 4.0,1422,True,False,False
+aci-D2N157,aci-bench,Primary care,follow-up,CC BY 4.0,1720,True,False,False
+aci-D2N158,aci-bench,Gastroenterology,abdominal pain,CC BY 4.0,1221,True,False,False
+aci-D2N159,aci-bench,Orthopedics & musculoskeletal,right hand pain,CC BY 4.0,893,True,False,False
+aci-D2N160,aci-bench,Orthopedics & musculoskeletal,right elbow pain,CC BY 4.0,1164,True,False,False
+aci-D2N161,aci-bench,Cardiology,Hospital follow-up after acute on chronic CHF exacerbation,CC BY 4.0,1238,True,False,False
+aci-D2N162,aci-bench,Orthopedics & musculoskeletal,Right ankle pain and swelling,CC BY 4.0,1027,True,False,False
+aci-D2N163,aci-bench,Cardiology,hypercholesterolemia,CC BY 4.0,1259,True,False,False
+aci-D2N164,aci-bench,Cardiology,Chest pain,CC BY 4.0,1835,True,False,False
+aci-D2N165,aci-bench,Orthopedics & musculoskeletal,Bilateral knee pain,CC BY 4.0,1054,True,False,False
+aci-D2N166,aci-bench,Orthopedics & musculoskeletal,low back pain,CC BY 4.0,1228,True,False,False
+aci-D2N167,aci-bench,Orthopedics & musculoskeletal,left knee pain,CC BY 4.0,1035,True,False,False
+aci-D2N001,aci-bench,Primary care,annual exam,CC BY 4.0,1291,True,False,True
+aci-D2N002,aci-bench,Orthopedics & musculoskeletal,joint pain,CC BY 4.0,1019,True,False,True
+aci-D2N003,aci-bench,Orthopedics & musculoskeletal,back pain,CC BY 4.0,1035,True,False,True
+aci-D2N004,aci-bench,Orthopedics & musculoskeletal,back pain,CC BY 4.0,1151,True,False,True
+aci-D2N005,aci-bench,Orthopedics & musculoskeletal,right middle finger pain,CC BY 4.0,470,True,False,False
+aci-D2N006,aci-bench,Primary care,chronic problems,CC BY 4.0,1047,True,False,True
+aci-D2N007,aci-bench,Primary care,annual exam,CC BY 4.0,881,True,False,False
+aci-D2N008,aci-bench,Primary care,abnormal labs,CC BY 4.0,1204,True,False,True
+aci-D2N009,aci-bench,Orthopedics & musculoskeletal,back pain,CC BY 4.0,702,True,False,True
+aci-D2N010,aci-bench,Endocrinology,high blood sugar,CC BY 4.0,942,True,False,False
+aci-D2N011,aci-bench,Cardiology,ER follow-up for chest pain,CC BY 4.0,751,True,False,False
+aci-D2N012,aci-bench,Primary care,chronic problems,CC BY 4.0,922,True,False,False
+aci-D2N013,aci-bench,Primary care,abnormal lab finding,CC BY 4.0,750,True,False,True
+aci-D2N014,aci-bench,Primary care,ER follow-up,CC BY 4.0,820,True,False,False
+aci-D2N015,aci-bench,Pulmonology,shortness of breath,CC BY 4.0,835,True,False,True
+aci-D2N016,aci-bench,Primary care,chronic problems,CC BY 4.0,1036,True,False,True
+aci-D2N017,aci-bench,Orthopedics & musculoskeletal,right leg pain,CC BY 4.0,564,True,False,False
+aci-D2N018,aci-bench,Orthopedics & musculoskeletal,severe R upper arm pain,CC BY 4.0,629,True,False,False
+aci-D2N019,aci-bench,Orthopedics & musculoskeletal,right elbow pain,CC BY 4.0,623,True,False,False
+aci-D2N020,aci-bench,Gastroenterology,abnormal labs for anemia,CC BY 4.0,692,True,False,False
+aci-D2N021,aci-bench,Endocrinology,hypothyroidism,CC BY 4.0,2322,True,False,False
+aci-D2N022,aci-bench,Orthopedics & musculoskeletal,right index finger hyperextension,CC BY 4.0,1854,True,False,False
+aci-D2N023,aci-bench,Endocrinology,hypogonadism,CC BY 4.0,1009,True,False,False
+aci-D2N024,aci-bench,Women's health,follow up on bilateral reduction mammoplasty,CC BY 4.0,604,True,False,False
+aci-D2N025,aci-bench,Primary care,follow up visit,CC BY 4.0,1524,True,False,False
+aci-D2N026,aci-bench,Orthopedics & musculoskeletal,left arm pain,CC BY 4.0,1591,True,False,False
+aci-D2N027,aci-bench,Primary care,follow up visit of chronic medical conditions,CC BY 4.0,1473,True,False,False
+aci-D2N028,aci-bench,Gastroenterology,abdominal pain; diarrhea,CC BY 4.0,1597,True,False,False
+aci-D2N029,aci-bench,Dermatology,melanoma,CC BY 4.0,1292,True,False,False
+aci-D2N030,aci-bench,Women's health,follow-up bilateral breast cysts,CC BY 4.0,1457,True,False,True
+aci-D2N031,aci-bench,Women's health,right ductal carcinoma in situ,CC BY 4.0,1182,True,False,False
+aci-D2N032,aci-bench,Orthopedics & musculoskeletal,right hip pain,CC BY 4.0,1261,True,False,False
+aci-D2N033,aci-bench,Orthopedics & musculoskeletal,right knee pain,CC BY 4.0,721,True,False,False
+aci-D2N034,aci-bench,Orthopedics & musculoskeletal,left shoulder pain,CC BY 4.0,913,True,False,False
+aci-D2N035,aci-bench,Cardiology,Congestive heart failure,CC BY 4.0,1085,True,False,False
+aci-D2N036,aci-bench,Orthopedics & musculoskeletal,left wrist and hand pain,CC BY 4.0,1117,True,False,False
+aci-D2N037,aci-bench,Orthopedics & musculoskeletal,Bilateral elbow pain,CC BY 4.0,836,True,False,False
+aci-D2N038,aci-bench,Gastroenterology,Hepatitis C,CC BY 4.0,829,True,False,False
+aci-D2N039,aci-bench,Cardiology,hypertension,CC BY 4.0,1611,True,False,False
+aci-D2N040,aci-bench,Neurology,headache,CC BY 4.0,1391,True,False,False
+aci-D2N041,aci-bench,Primary care,sore throat,CC BY 4.0,1319,True,False,False
+aci-D2N042,aci-bench,Orthopedics & musculoskeletal,Right ankle pain,CC BY 4.0,878,True,False,False
+aci-D2N043,aci-bench,Pulmonology,smoking cessation,CC BY 4.0,1498,True,False,False
+aci-D2N044,aci-bench,Orthopedics & musculoskeletal,knee pain,CC BY 4.0,1143,True,False,False
+aci-D2N045,aci-bench,Orthopedics & musculoskeletal,Right knee pain,CC BY 4.0,1013,True,False,False
+aci-D2N046,aci-bench,Women's health,ovarian cancer,CC BY 4.0,775,True,False,False
+aci-D2N047,aci-bench,Nephrology & urology,difficulty urinating,CC BY 4.0,1346,True,False,False
+aci-D2N048,aci-bench,Orthopedics & musculoskeletal,right foot,CC BY 4.0,1540,True,False,False
+aci-D2N049,aci-bench,Orthopedics & musculoskeletal,left sided back pain,CC BY 4.0,1590,True,False,False
+aci-D2N050,aci-bench,Nephrology & urology,kidney stones,CC BY 4.0,827,True,False,False
+aci-D2N051,aci-bench,Orthopedics & musculoskeletal,Right foot ulcer,CC BY 4.0,1256,True,False,False
+aci-D2N052,aci-bench,Orthopedics & musculoskeletal,right-sided back pain,CC BY 4.0,963,True,False,False
+aci-D2N053,aci-bench,Dermatology,itchy scalp,CC BY 4.0,953,True,False,False
+aci-D2N054,aci-bench,Orthopedics & musculoskeletal,right foot pain,CC BY 4.0,1126,True,False,False
+aci-D2N055,aci-bench,Neurology,right eye twitch,CC BY 4.0,1315,True,False,False
+aci-D2N056,aci-bench,Pulmonology,recurrent lung infections,CC BY 4.0,1049,True,False,False
+aci-D2N057,aci-bench,Orthopedics & musculoskeletal,Right great toe pain,CC BY 4.0,1272,True,False,False
+aci-D2N058,aci-bench,Cardiology,Hospital follow-up after an anterior STEMI,CC BY 4.0,1266,True,False,False
+aci-D2N059,aci-bench,Pulmonology,asthma,CC BY 4.0,1152,True,False,False
+aci-D2N060,aci-bench,Orthopedics & musculoskeletal,Left foot pain,CC BY 4.0,978,True,False,False
+aci-D2N061,aci-bench,Orthopedics & musculoskeletal,Right knee pain,CC BY 4.0,1317,True,False,False
+aci-D2N062,aci-bench,Gastroenterology,Difficulty swallowing,CC BY 4.0,946,True,False,False
+aci-D2N063,aci-bench,Pulmonology,dyspnea,CC BY 4.0,1551,True,False,False
+aci-D2N064,aci-bench,Orthopedics & musculoskeletal,left ankle pain,CC BY 4.0,972,True,False,False
+aci-D2N065,aci-bench,Orthopedics & musculoskeletal,Right ankle pain,CC BY 4.0,1118,True,False,False
+aci-D2N066,aci-bench,Orthopedics & musculoskeletal,back pain,CC BY 4.0,1527,True,False,True
+aci-D2N067,aci-bench,Orthopedics & musculoskeletal,Right knee injury,CC BY 4.0,1445,True,False,False
+aci-D2N068,aci-bench,Primary care,follow-up of chronic problems,CC BY 4.0,1113,True,False,True
+aci-D2N069,aci-bench,Orthopedics & musculoskeletal,right knee pain,CC BY 4.0,666,True,False,False
+aci-D2N070,aci-bench,Orthopedics & musculoskeletal,back pain,CC BY 4.0,1259,True,False,True
+aci-D2N071,aci-bench,Primary care,annual exam,CC BY 4.0,966,True,False,True
+aci-D2N072,aci-bench,Orthopedics & musculoskeletal,right finger pain,CC BY 4.0,577,True,False,False
+aci-D2N073,aci-bench,Gastroenterology,iron deficiency anemia,CC BY 4.0,1081,True,False,False
+aci-D2N074,aci-bench,Neurology,Pituitary lesion,CC BY 4.0,1194,True,False,False
+aci-D2N075,aci-bench,Gastroenterology,"chest pain, suspected esophagitis",CC BY 4.0,1009,True,False,False
+aci-D2N076,aci-bench,Nephrology & urology,renal screening tests,CC BY 4.0,1002,True,False,False
+aci-D2N077,aci-bench,Orthopedics & musculoskeletal,Right wrist injury,CC BY 4.0,1620,True,False,False
+aci-D2N078,aci-bench,Orthopedics & musculoskeletal,right knee pain,CC BY 4.0,1114,True,False,False
+aci-D2N079,aci-bench,Orthopedics & musculoskeletal,left shoulder pain,CC BY 4.0,871,True,False,False
+aci-D2N080,aci-bench,Orthopedics & musculoskeletal,Left knee pain,CC BY 4.0,1166,True,False,False
+aci-D2N081,aci-bench,Pulmonology,follow-up for lung cancer,CC BY 4.0,1032,True,False,False
+aci-D2N082,aci-bench,Primary care,low immunoglobulin A level,CC BY 4.0,1096,True,False,False
+aci-D2N083,aci-bench,Orthopedics & musculoskeletal,right elbow pain,CC BY 4.0,832,True,False,False
+aci-D2N084,aci-bench,Primary care,follow up,CC BY 4.0,956,True,False,False
+aci-D2N085,aci-bench,Gastroenterology,right-sided abdominal pain,CC BY 4.0,684,True,False,False
+aci-D2N086,aci-bench,Orthopedics & musculoskeletal,non-healing right foot ulcer,CC BY 4.0,1416,True,False,False
+aci-D2N087,aci-bench,Primary care,tick bite,CC BY 4.0,1693,True,False,False
+primock-day1_consultation01,primock57,Primary care,I've been having really bad diarrhea for the last 3 days,CC BY 4.0,1414,True,True,False
+primock-day1_consultation02,primock57,Primary care,"I have sore, red skin",CC BY 4.0,1676,True,True,False
+primock-day1_consultation03,primock57,Primary care,I have terrible headache,CC BY 4.0,1565,True,True,False
+primock-day1_consultation04,primock57,Primary care,"I don't feel well, I have a cough and runny nose",CC BY 4.0,1688,True,True,False
+primock-day1_consultation05,primock57,Primary care,Lower abdominal pain,CC BY 4.0,1647,True,True,False
+primock-day1_consultation06,primock57,Primary care,hard to breathe,CC BY 4.0,1866,True,True,False
+primock-day1_consultation07,primock57,Primary care,I have a cough and cold,CC BY 4.0,2799,True,True,False
+primock-day1_consultation08,primock57,Primary care,"I have dry, itchy skin",CC BY 4.0,1205,True,True,False
+primock-day1_consultation09,primock57,Primary care,It hurts when I pee,CC BY 4.0,1609,True,True,False
+primock-day1_consultation10,primock57,Primary care,It hurts when I pee,CC BY 4.0,1894,True,True,False
+primock-day1_consultation11,primock57,Primary care,pouring diarrhoea from my bottom,CC BY 4.0,2350,True,True,False
+primock-day1_consultation12,primock57,Primary care,I've been having really bad diarrhoea for the last 3 days,CC BY 4.0,1187,True,True,False
+primock-day1_consultation13,primock57,Primary care,I've had a blinding headache for a few days,CC BY 4.0,1720,True,True,False
+primock-day1_consultation14,primock57,Primary care,I have a cough and cold,CC BY 4.0,1928,True,True,False
+primock-day1_consultation15,primock57,Primary care,"I have sore, cracked skin on my hands",CC BY 4.0,1271,True,True,False
+primock-day2_consultation01,primock57,Primary care,I don't hear as well as I used to,CC BY 4.0,1160,True,True,False
+primock-day2_consultation02,primock57,Primary care,I have a strange swelling on my elbow,CC BY 4.0,1721,True,True,False
+primock-day2_consultation03,primock57,Primary care,I can't hear very well and my face is a bit numb,CC BY 4.0,1428,True,True,False
+primock-day2_consultation04,primock57,Primary care,I feel breathless,CC BY 4.0,1858,True,True,False
+primock-day2_consultation05,primock57,Primary care,My asthma is not responding to my inhalers,CC BY 4.0,1903,True,True,False
+primock-day2_consultation06,primock57,Primary care,I’m having difficulty breathing,CC BY 4.0,1959,True,True,False
+primock-day2_consultation07,primock57,Primary care,I'm having chest discomfort,CC BY 4.0,1341,True,True,False
+primock-day2_consultation08,primock57,Primary care,I've been feeling very hot and sweaty for the past week,CC BY 4.0,1800,True,True,False
+primock-day2_consultation09,primock57,Primary care,I can't move my left arm,CC BY 4.0,1042,True,True,False
+primock-day2_consultation10,primock57,Primary care,I've got a really bad headache,CC BY 4.0,1830,True,True,False
+primock-day3_consultation01,primock57,Primary care,lips swelling after eating a sandwich,CC BY 4.0,1261,True,True,False
+primock-day3_consultation02,primock57,Primary care,feeling hot and having severe headache,CC BY 4.0,1160,True,True,False
+primock-day3_consultation03,primock57,Primary care,I don't have much appetite or energy lately,CC BY 4.0,1823,True,True,False
+primock-day3_consultation04,primock57,Primary care,my chest feels very tight,CC BY 4.0,1098,True,True,False
+primock-day3_consultation05,primock57,Primary care,I've been feeling dizzy,CC BY 4.0,1089,True,True,False
+primock-day3_consultation06,primock57,Primary care,I'm having difficulty breathing,CC BY 4.0,590,True,True,False
+primock-day3_consultation07,primock57,Primary care,I have sore red skin,CC BY 4.0,1142,True,True,False
+primock-day3_consultation08,primock57,Primary care,I have a cough and a cold,CC BY 4.0,909,True,True,False
+primock-day3_consultation09,primock57,Primary care,I have pain in my jaw,CC BY 4.0,2075,True,True,False
+primock-day3_consultation10,primock57,Primary care,I have really bad diarrhea,CC BY 4.0,1340,True,True,False
+primock-day4_consultation01,primock57,Primary care,I'm having chest discomfort,CC BY 4.0,1263,True,True,False
+primock-day4_consultation02,primock57,Primary care,I'm feeling hot and have severe headaches,CC BY 4.0,1241,True,True,False
+primock-day4_consultation03,primock57,Primary care,I'm feeling short of breath,CC BY 4.0,1016,True,True,False
+primock-day4_consultation04,primock57,Primary care,I'm wheezy,CC BY 4.0,1002,True,True,False
+primock-day4_consultation05,primock57,Primary care,I've had bad diarrhea for 3 days,CC BY 4.0,1581,True,True,False
+primock-day4_consultation06,primock57,Primary care,my chest hurts and it's been hard to breathe,CC BY 4.0,1669,True,True,False
+primock-day4_consultation07,primock57,Primary care,I have a cold,CC BY 4.0,1807,True,True,False
+primock-day4_consultation08,primock57,Primary care,"lately, I haven't had much appetite or energy",CC BY 4.0,1767,True,True,False
+primock-day4_consultation09,primock57,Primary care,I have pain in my jaw,CC BY 4.0,1759,True,True,False
+primock-day4_consultation10,primock57,Primary care,I have really bad diarrhea,CC BY 4.0,1713,True,True,False
+primock-day5_consultation01,primock57,Primary care,I have a headache,CC BY 4.0,1256,True,True,False
+primock-day5_consultation02,primock57,Primary care,It hurts when I pee,CC BY 4.0,1097,True,True,False
+primock-day5_consultation03,primock57,Primary care,I'm feeling very anxious,CC BY 4.0,2388,True,True,False
+primock-day5_consultation04,primock57,Primary care,Lower stomach pain,CC BY 4.0,1262,True,True,False
+primock-day5_consultation05,primock57,Primary care,My tummy hurts,CC BY 4.0,929,True,True,False
+primock-day5_consultation06,primock57,Primary care,Diarrhoea,CC BY 4.0,1523,True,True,False
+primock-day5_consultation07,primock57,Primary care,Cough and a cold,CC BY 4.0,1247,True,True,False
+primock-day5_consultation08,primock57,Primary care,I'm wheezy,CC BY 4.0,1292,True,True,False
+primock-day5_consultation09,primock57,Primary care,Tired all the time,CC BY 4.0,1380,True,True,False
+primock-day5_consultation10,primock57,Primary care,I have a blinding headache,CC BY 4.0,1580,True,True,False
+primock-day5_consultation11,primock57,Primary care,I have a pouring diarrhea,CC BY 4.0,1989,True,True,False
+primock-day5_consultation12,primock57,Primary care,Headache,CC BY 4.0,805,True,True,False
+osce-CAR0001,osce-respiratory,Cardiology,"Sure, I'm I'm just having a lot of chest pain and and so I thought I should get it checked out.",CC0 1.0,1042,False,True,False
+osce-CAR0002,osce-respiratory,Cardiology,"Yeah, I have this pain in my chest.",CC0 1.0,1065,False,True,False
+osce-CAR0003,osce-respiratory,Cardiology,"Yeah, I've just been feeling breathless and it's getting worse. So I wanted to check it out.",CC0 1.0,1270,False,True,False
+osce-CAR0004,osce-respiratory,Cardiology,I'm just having this really sharp pain in my chest and I'm scared. I think I'm having a heart attack.,CC0 1.0,905,False,True,False
+osce-CAR0005,osce-respiratory,Cardiology,"Yeah, so this chest pain has just been coming on for the last couple of weeks now.",CC0 1.0,1243,False,True,False
+osce-DER0001,osce-respiratory,Dermatology,"Hey Doc, I'm a 45 year old man coming in, I'm worried there's a little old rash on my leg that I'm getting nervous about",CC0 1.0,1489,False,True,False
+osce-GAS0001,osce-respiratory,Gastroenterology,"I've just been feeling like very nauseated for, it feels like all the time right now.",CC0 1.0,1014,False,True,False
+osce-GAS0002,osce-respiratory,Gastroenterology,"Yeah, so nice to meet you. I've been having this pain right in my abdomen. It's kind of like in the upper right area.",CC0 1.0,1124,False,True,False
+osce-GAS0003,osce-respiratory,Gastroenterology,"Yeah hi, I'm I I have a pain in my belly. It started a couple hours ago.",CC0 1.0,1055,False,True,False
+osce-GAS0004,osce-respiratory,Gastroenterology,"Yeah, sure I had, I've been having diarrhea for the past three to four days, and it's been pretty bad. I couldn't go, uh",CC0 1.0,1144,False,True,False
+osce-GAS0005,osce-respiratory,Gastroenterology,"Yeah, so I'm just coming in with my son. He's six years old and yeah, just over the last few days he's not been himself ",CC0 1.0,1574,False,True,False
+osce-GAS0007,osce-respiratory,Gastroenterology,"Yeah yeah stomach hurt, started hurting more last couple of days, maybe 3 days ago I think.",CC0 1.0,886,False,True,False
+osce-GEN0001,osce-respiratory,Primary care,"Hi, so I feel like I might have a bladder infection. I see a urologist because I've had some issues with like an overact",CC0 1.0,1097,False,True,False
+osce-MSK0001,osce-respiratory,Orthopedics & musculoskeletal,Low back pain.,CC0 1.0,1040,False,True,False
+osce-MSK0003,osce-respiratory,Orthopedics & musculoskeletal,"My back, it just really hurts. I feel really stiff in the morning and um yeah, it's just been going on for a few months ",CC0 1.0,1826,False,True,False
+osce-MSK0004,osce-respiratory,Orthopedics & musculoskeletal,"Hi there, I've just last night I was, I went for a run and I twisted my ankle. I think I stepped on something and it it ",CC0 1.0,1107,False,True,False
+osce-MSK0005,osce-respiratory,Orthopedics & musculoskeletal,"Hi, I've I've had this pain on the outside of my uh right elbow now it's it I first started knowing, noticing it several",CC0 1.0,1582,False,True,False
+osce-MSK0006,osce-respiratory,Orthopedics & musculoskeletal,"I I've had this, uh pain in the right buttock area, it's been really intense, and more recently I'm feeling it like radi",CC0 1.0,1855,False,True,False
+osce-MSK0007,osce-respiratory,Orthopedics & musculoskeletal,"Hi, yes I've had this pain in my left elbow for a couple of weeks now and it's not getting any better so. I'm just here ",CC0 1.0,1352,False,True,False
+osce-MSK0008,osce-respiratory,Orthopedics & musculoskeletal,Um so I was playing soccer the other day and I got kicked in the knee and since then my knee has been hurting and it loo,CC0 1.0,1417,False,True,False
+osce-MSK0009,osce-respiratory,Orthopedics & musculoskeletal,"So I've just been having this pain in my knee since I um just fell, uh, just three days ago slipping on the stairs. Sinc",CC0 1.0,1547,False,True,False
+osce-MSK0010,osce-respiratory,Orthopedics & musculoskeletal,"I just came in here today, I've been having a lot of shoulder pain that's just kind of left me not doing any of my activ",CC0 1.0,1491,False,True,False
+osce-MSK0011,osce-respiratory,Orthopedics & musculoskeletal,"Yeah I had last night um so I'm having this pain in my right wrist. Yeah, but last night. I I tripped over something and",CC0 1.0,1516,False,True,False
+osce-MSK0012,osce-respiratory,Orthopedics & musculoskeletal,I've had this pain in my back thats kind of like in my lower back and my buttocks and it's now radiating down to my righ,CC0 1.0,1618,False,True,False
+osce-MSK0013,osce-respiratory,Orthopedics & musculoskeletal,"Hi, I'm here because I've had this numbness and tingling in my feet for awhile now and I started to notice these open wo",CC0 1.0,1578,False,True,False
+osce-MSK0014,osce-respiratory,Orthopedics & musculoskeletal,"I just came in here today, I usually don't come to the doctor that much unless I absolutely need it. Five days ago I sta",CC0 1.0,1543,False,True,False
+osce-MSK0015,osce-respiratory,Orthopedics & musculoskeletal,"Yeah, so I'm I'm George, the father, my daughter is 5 years old and I noticed just a few days ago that she was walking a",CC0 1.0,1592,False,True,False
+osce-MSK0016,osce-respiratory,Orthopedics & musculoskeletal,I've um I've been having this numbness and tingling and I guess kind of burning sensation that well uh it's been happeni,CC0 1.0,2158,False,True,False
+osce-MSK0017,osce-respiratory,Orthopedics & musculoskeletal,"Hi, yeah, so I've had this uh back pain that's been going on now for the last uh two weeks, it's just kind of right in t",CC0 1.0,1800,False,True,False
+osce-MSK0018,osce-respiratory,Orthopedics & musculoskeletal,"I just came in because of I just got into like this uh, incident while I was playing rugby. I kind of got tackled and th",CC0 1.0,1010,False,True,False
+osce-MSK0019,osce-respiratory,Orthopedics & musculoskeletal,"I've just been having uh, this pain in my um right, right elbow, and it's just been getting worse over the last few days",CC0 1.0,1393,False,True,False
+osce-MSK0020,osce-respiratory,Orthopedics & musculoskeletal,I've just come in today because I've been having some issues with my hips as well as my knees. Just over the last probab,CC0 1.0,1653,False,True,False
+osce-MSK0021,osce-respiratory,Orthopedics & musculoskeletal,"Hi there, yeah I've had this pain in my knee that's been going on for a few weeks now and it hasn't gone away and and so",CC0 1.0,1703,False,True,False
+osce-MSK0022,osce-respiratory,Orthopedics & musculoskeletal,"I have been having this, pains in my in my joints that's been ongoing now for the last several months and it's been gett",CC0 1.0,2118,False,True,False
+osce-MSK0023,osce-respiratory,Orthopedics & musculoskeletal,"Hi, hi there I've been having this knee pain. It started almost immediately after I was I was playing basketball on the ",CC0 1.0,1190,False,True,False
+osce-MSK0024,osce-respiratory,Orthopedics & musculoskeletal,"Hi, I've been having this back pain for the past month, so I'd just like something for it an and you know image it if po",CC0 1.0,1171,False,True,False
+osce-MSK0025,osce-respiratory,Orthopedics & musculoskeletal,"So my back has been killing me it's been hurting for the past two months, but recently it's gotten worse. I'd say over t",CC0 1.0,1524,False,True,False
+osce-MSK0026,osce-respiratory,Orthopedics & musculoskeletal,I'm I'm here because my right knee is very painful. It looks kind of swollen and it's it's also a little bit warm so I'm,CC0 1.0,1351,False,True,False
+osce-MSK0027,osce-respiratory,Orthopedics & musculoskeletal,"Hi, I'm here with my 3 year old daughter and she's been holding her elbow awkwardly and um she seems like she's in pain ",CC0 1.0,1337,False,True,False
+osce-MSK0028,osce-respiratory,Orthopedics & musculoskeletal,I just came in because I've been having this just just yesterday it started this sudden just pain over the front of my k,CC0 1.0,1804,False,True,False
+osce-MSK0029,osce-respiratory,Orthopedics & musculoskeletal,"Hi, yesterday I was grocery shopping and, yeah, just in the parking lot somebody bumped into my car and this morning I w",CC0 1.0,2196,False,True,False
+osce-MSK0031,osce-respiratory,Orthopedics & musculoskeletal,"Hi, I just was brought in here today. I had a fall just waking up coming down the stairs. I fell off the last few stairs",CC0 1.0,1262,False,True,False
+osce-MSK0032,osce-respiratory,Orthopedics & musculoskeletal,"Um, hi, I'm here with my daughter. Uh, we noticed that uh, since yesterday she's been having this pain just in her elbow",CC0 1.0,1230,False,True,False
+osce-MSK0033,osce-respiratory,Orthopedics & musculoskeletal,"I've been having this pain in my knee and it's been going on now for a few weeks. It's kind of right at the, I could fee",CC0 1.0,1635,False,True,False
+osce-MSK0034,osce-respiratory,Orthopedics & musculoskeletal,"Yeah, I'm so I'm here with my mom because I am having this pain in my right hip and groin area. Um I was playing with my",CC0 1.0,1430,False,True,False
+osce-MSK0035,osce-respiratory,Orthopedics & musculoskeletal,I'm so I was skiing yesterday and I fell on my arm and now and it's it's my hands very painful and it looks swollen and ,CC0 1.0,1567,False,True,False
+osce-MSK0036,osce-respiratory,Orthopedics & musculoskeletal,"I've just been experiencing a, some pain and numbness and tingling in in just my wrist area and thumb, middle finger, an",CC0 1.0,1732,False,True,False
+osce-MSK0037,osce-respiratory,Orthopedics & musculoskeletal,"Yeah I just came in here today I've been experiencing some difficulties with my right hand, especially at the bases of t",CC0 1.0,1631,False,True,False
+osce-MSK0038,osce-respiratory,Orthopedics & musculoskeletal,"Hi, I've I've had um this pain in my left knee that's been going on now for the last uh three or four months um but it's",CC0 1.0,1951,False,True,False
+osce-MSK0039,osce-respiratory,Orthopedics & musculoskeletal,"Uh I just came in today I think I broke my leg or something, it's something that was, I heard a snap, I was in um just a",CC0 1.0,1444,False,True,False
+osce-MSK0040,osce-respiratory,Orthopedics & musculoskeletal,"So I've had this ankle pain for the past day, and and it doesn't seem to be getting better. My right ankle looks swollen",CC0 1.0,1465,False,True,False
+osce-MSK0041,osce-respiratory,Orthopedics & musculoskeletal,"I'm I am here because I've had this intense pain in my right foot for the past six hours or so or so, and I thought it w",CC0 1.0,1566,False,True,False
+osce-MSK0042,osce-respiratory,Orthopedics & musculoskeletal,"Uh, I, I'm uh, just coming into the clinic uh, today uh, my parents told me to come today. I don't know what this thing ",CC0 1.0,1598,False,True,False
+osce-MSK0043,osce-respiratory,Orthopedics & musculoskeletal,"I've had this like, pain in my knee. It started within the last few hours and my knee's swollen, it's painful. Um, I can",CC0 1.0,1843,False,True,False
+osce-MSK0044,osce-respiratory,Orthopedics & musculoskeletal,"I just had uh, well, it was just uh, I came from football practice I, uh, just felt like somebody fell on me while, like",CC0 1.0,1182,False,True,False
+osce-MSK0045,osce-respiratory,Orthopedics & musculoskeletal,"Um so I'm here because my shoulder has been really painful for the past week um and any movement of that shoulder, of my",CC0 1.0,1432,False,True,False
+osce-MSK0046,osce-respiratory,Orthopedics & musculoskeletal,"Um I'm here because my left hand, kind of just like at the base of my thumb, has been hurting for the past two days and ",CC0 1.0,1251,False,True,False
+osce-MSK0049,osce-respiratory,Orthopedics & musculoskeletal,I'm here because um I've been having some pain in my left knee for the past two months and it's not getting better. It f,CC0 1.0,1414,False,True,False
+osce-MSK0050,osce-respiratory,Orthopedics & musculoskeletal,"Um I'm here because I've had some numbness in my right hand and uh doesn't seem to be going going away, so I thought I s",CC0 1.0,1340,False,True,False
+osce-RES0001,osce-respiratory,Pulmonology,I so I've just had this pain in my chest for just over a week now and it's caused me to have trouble breathing.,CC0 1.0,1517,False,True,False
+osce-RES0002,osce-respiratory,Pulmonology,,CC0 1.0,0,False,True,False
+osce-RES0003,osce-respiratory,Pulmonology,"It's nice to meet you as well. My name is Jenn and I'm here with my son Joey here, who he's had a sore throat now for th",CC0 1.0,1246,False,True,False
+osce-RES0004,osce-respiratory,Pulmonology,It my name is Scott. It's nice to meet you too.,CC0 1.0,1708,False,True,False
+osce-RES0005,osce-respiratory,Pulmonology,"Yeah, so I just came in. I was a bit worried because I've been having this cough for around two years, which has been ge",CC0 1.0,1608,False,True,False
+osce-RES0006,osce-respiratory,Pulmonology,"So I've just been having this cough that I feel has just been getting worse, and I've also been feeling a bit short of b",CC0 1.0,1239,False,True,False
+osce-RES0007,osce-respiratory,Pulmonology,"Yeah, so like a couple months ago I was in the office and they told me that I have asthma like I had it when I was a lit",CC0 1.0,1838,False,True,False
+osce-RES0008,osce-respiratory,Pulmonology,"Yeah, so uh a couple of days ago. I just started to not feel so well and I've been having this cough and trouble breathi",CC0 1.0,1153,False,True,False
+osce-RES0009,osce-respiratory,Pulmonology,Really I just don't I I don't feel quite right like I've had this pain in my chest for five days now and I've been just ,CC0 1.0,1410,False,True,False
+osce-RES0010,osce-respiratory,Pulmonology,"Yeah, so I have like a really sore throat, started last night.",CC0 1.0,1055,False,True,False
+osce-RES0011,osce-respiratory,Pulmonology,"Hi, I've just been been so like weak and so tired, I just I can't I can't seem to like get off the couch, like I'll get ",CC0 1.0,1611,False,True,False
+osce-RES0012,osce-respiratory,Pulmonology,"I can't, I can barely breathe for like 2 days now and I've been coughing and been having like a little bit of pain in my",CC0 1.0,2091,False,True,False
+osce-RES0013,osce-respiratory,Pulmonology,"Hi, I'm Rob and I just feel like I can't catch my breath.",CC0 1.0,1339,False,True,False
+osce-RES0014,osce-respiratory,Pulmonology,"This afternoon, I'm just here because I've been experiencing some breathlessness as well as a bit of cough.",CC0 1.0,1404,False,True,False
+osce-RES0015,osce-respiratory,Pulmonology,"So I've been having just a worsening breathlessness. I've been also having a cough, and I think I might have also had a ",CC0 1.0,1571,False,True,False
+osce-RES0016,osce-respiratory,Pulmonology,Not so well I I feel like I've been having just worsening breathlessness and a cough for it's been going on for two year,CC0 1.0,1325,False,True,False
+osce-RES0017,osce-respiratory,Pulmonology,"I've been having this cough for around, I would say half a year now and I just can't seem to get rid of it.",CC0 1.0,1723,False,True,False
+osce-RES0018,osce-respiratory,Pulmonology,I've just been having this this cough over the last few days and I also notice that I'm getting like these headaches and,CC0 1.0,1312,False,True,False
+osce-RES0019,osce-respiratory,Pulmonology,"Sure, you know I've been feeling kinda hot for the past couple of days and I have this terrible, terrible headache. And ",CC0 1.0,1329,False,True,False
+osce-RES0020,osce-respiratory,Pulmonology,"Sure, you know I've been having this chest pain for the since last night. Um, and I'm also having a hard time breathing ",CC0 1.0,1411,False,True,False
+osce-RES0021,osce-respiratory,Pulmonology,"Sure, you know I've been feeling a little hot for the past two days. I've had this awful cough and I just feel so tired.",CC0 1.0,1255,False,True,False
+osce-RES0022,osce-respiratory,Pulmonology,"Yeah, I I. It's just over the last week I can't like do anything without just feeling really like short of breath. I'm h",CC0 1.0,1956,False,True,False
+osce-RES0023,osce-respiratory,Pulmonology,"I'm doing OK, I just had this cough that's really started to bug me.",CC0 1.0,1080,False,True,False
+osce-RES0024,osce-respiratory,Pulmonology,So like I don't really feel sick. I just I lost. I can't. I for the past two days I can't smell anything. I can't taste ,CC0 1.0,991,False,True,False
+osce-RES0025,osce-respiratory,Pulmonology,"Yeah, so uh, like around three or four days ago I started, uh to get really nauseous and since then I've been vomiting e",CC0 1.0,1369,False,True,False
+osce-RES0026,osce-respiratory,Pulmonology,"Sure, I've had this terrible headache for the past four days. Doesn't seem to be getting any better, and I feel hot like",CC0 1.0,1540,False,True,False
+osce-RES0027,osce-respiratory,Pulmonology,"Sure, I've been coughing for the past three days and it I can't seem to stop. It's affecting my sleep, so I just really ",CC0 1.0,1347,False,True,False
+osce-RES0028,osce-respiratory,Pulmonology,"Yeah, my chest is really hurting.",CC0 1.0,1143,False,True,False
+osce-RES0029,osce-respiratory,Pulmonology,So I came to the emergency Department because I've been having pain in my chest.,CC0 1.0,797,False,True,False
+osce-RES0030,osce-respiratory,Pulmonology,"Yeah, I I have a cough.",CC0 1.0,1183,False,True,False
+osce-RES0031,osce-respiratory,Pulmonology,So I just came in today because I've been having a sore throat.,CC0 1.0,1319,False,True,False
+osce-RES0032,osce-respiratory,Pulmonology,"Yeah, I've had this cough and it's just not going away.",CC0 1.0,1193,False,True,False
+osce-RES0033,osce-respiratory,Pulmonology,I've been having issues with just a cough that's just been constantly like bothering me for the past few bit.,CC0 1.0,1346,False,True,False
+osce-RES0034,osce-respiratory,Pulmonology,I am just calling about my daughter. She's been sick over the last few days. She has fever and a cough.,CC0 1.0,1671,False,True,False
+osce-RES0035,osce-respiratory,Pulmonology,"Sure, um, I've been experiencing some issues breathing, um and just a lot of coughing over the past year or so.",CC0 1.0,964,False,True,False
+osce-RES0036,osce-respiratory,Pulmonology,"Yeah, so I've been pretty breathless for the past six days and it's it's just worse. I have to stop from, I had to stop ",CC0 1.0,1384,False,True,False
+osce-RES0037,osce-respiratory,Pulmonology,"Yeah, so I've been coughing for a few months now and so that's the problem.",CC0 1.0,1436,False,True,False
+osce-RES0038,osce-respiratory,Pulmonology,I haven't been coughing these last two weeks since I got back from Mexico. I think I got sick there.,CC0 1.0,1525,False,True,False
+osce-RES0039,osce-respiratory,Pulmonology,"Hi, this morning I read after I woke up by I coughed up some phlegm and there was some blood in it and it it totally sca",CC0 1.0,1668,False,True,False
+osce-RES0042,osce-respiratory,Pulmonology,"So, just for the past, like 3 days I've been coughing. It's I I don't feel particularly sick. I'm just kind of dry like ",CC0 1.0,1245,False,True,False
+osce-RES0043,osce-respiratory,Pulmonology,"Essentially, when he, so today is Friday, when he got home from school on Wednesday, he seemed fine, but he, I don't kno",CC0 1.0,1471,False,True,False
+osce-RES0044,osce-respiratory,Pulmonology,"Um I just uh I have, I have a cough that I've had for a couple of days and like normally if I had a cough or cold, I wou",CC0 1.0,1867,False,True,False
+osce-RES0045,osce-respiratory,Pulmonology,"I've had a cough that started like 4 days ago, um and it's just been getting worse, so I I wanted to come in.",CC0 1.0,1242,False,True,False
+osce-RES0046,osce-respiratory,Pulmonology,I've had this cough that started four days ago uh that that's been getting worse and um just started having some some di,CC0 1.0,1649,False,True,False
+osce-RES0047,osce-respiratory,Pulmonology,"Yeah, so I've had this chest tightness and and been short of breath and bringing up sputum with this uh cough.",CC0 1.0,1698,False,True,False
+osce-RES0048,osce-respiratory,Pulmonology,"Yeah, so I just came in because I've been having this cough that's getting worse over the last uh one and a half week an",CC0 1.0,1823,False,True,False
+osce-RES0049,osce-respiratory,Pulmonology,"Yeah, nice to meet you I, I've been having just over the last week my cough that's been getting worse and I had a fever ",CC0 1.0,1580,False,True,False
+osce-RES0050,osce-respiratory,Pulmonology,"Sure, um, I have been coughing a lot. I've been feeling short of breath and I just feel really wheezy, so I thought I sh",CC0 1.0,1104,False,True,False
+osce-RES0051,osce-respiratory,Pulmonology,Sure I have had this cough for the past five days and it doesn't seem to be getting any better so I'm just here to ask y,CC0 1.0,975,False,True,False
+osce-RES0052,osce-respiratory,Pulmonology,"Sure, my 5 year old daughter, I noticed that she's been coughing a lot over the past two days. She sounds like she has a",CC0 1.0,820,False,True,False
+osce-RES0053,osce-respiratory,Pulmonology,"I was just bringing my son and he's just had cough for the last couple of days. I thought about a day and a half ago, it",CC0 1.0,1910,False,True,False
+osce-RES0054,osce-respiratory,Pulmonology,,CC0 1.0,0,False,True,False
+osce-RES0055,osce-respiratory,Pulmonology,"Hi, yes I just came in today because I've been a bit concerned about some breathing difficulties over the last few days.",CC0 1.0,1339,False,True,False
+osce-RES0056,osce-respiratory,Pulmonology,"So yeah, I've just been having a cough for the last week and I think I had a little bit of a fever in the last few days.",CC0 1.0,1148,False,True,False
+osce-RES0057,osce-respiratory,Pulmonology,"Hi, yes it's nice to meet you. I've been having this cough that's been going on for the last few days and I have had dif",CC0 1.0,1198,False,True,False
+osce-RES0058,osce-respiratory,Pulmonology,I'm doing OK. Thank you. How are you?,CC0 1.0,1468,False,True,False
+osce-RES0059,osce-respiratory,Pulmonology,"Oh, not too great I've had this cough the last few days.",CC0 1.0,1342,False,True,False
+osce-RES0060,osce-respiratory,Pulmonology,"So I've had a fever that I measured this morning and I had a cough.  I've had a cough these last several days. Yeah, tod",CC0 1.0,1634,False,True,False
+osce-RES0061,osce-respiratory,Pulmonology,"I'm not so good, these last few days I haven't benn able to reallykeep anything down and not feeling so good.",CC0 1.0,1730,False,True,False
+osce-RES0062,osce-respiratory,Pulmonology,"Well, I've had this cough but the biggest issue is that I've been really short of breath.",CC0 1.0,1937,False,True,False
+osce-RES0063,osce-respiratory,Pulmonology,"Yeah, so I've been feeling just really down recently in the last week. I started off by having this sore throat which st",CC0 1.0,1399,False,True,False
+osce-RES0064,osce-respiratory,Pulmonology,My child has been having a sore throat and chills yesterday as well.,CC0 1.0,1054,False,True,False
+osce-RES0065,osce-respiratory,Pulmonology,"Yeah, I've had this sore throat for the past three days and it doesn't seem to be getting any better at all. I feel sort",CC0 1.0,1070,False,True,False
+osce-RES0066,osce-respiratory,Pulmonology,"Well, I thought I should start by saying I was recently hospitalised for pneumonia. I left five days ago, but as soon as",CC0 1.0,1178,False,True,False
+osce-RES0067,osce-respiratory,Pulmonology,"Yeah I have my 2 year old daughter here with me. I don't know what's happening with her, but she seems to be getting rea",CC0 1.0,920,False,True,False
+osce-RES0068,osce-respiratory,Pulmonology,So I've had this stuffy nose for the past three days. I'm getting some yellow discharge from the nose. I can't seem to s,CC0 1.0,1182,False,True,False
+osce-RES0069,osce-respiratory,Pulmonology,"Yeah, absolutely. Uhm, I don't know, I've just been feeling a little feverish, uhm, and I also have a, a bit of a sore t",CC0 1.0,1005,False,True,False
+osce-RES0070,osce-respiratory,Pulmonology,"Yeah absolutely. I have had this awful, awful headache for the past, two days I wanna say, its horrible.",CC0 1.0,951,False,True,False
+osce-RES0071,osce-respiratory,Pulmonology,"I've had this cough for over a week now, and it just hasn't gone away.",CC0 1.0,1291,False,True,False
+osce-RES0072,osce-respiratory,Pulmonology,"Yeah, I've had this sore throat. It started, really, yesterday and I've been having problems with eating and drinking.",CC0 1.0,1159,False,True,False
+osce-RES0073,osce-respiratory,Pulmonology,"Yeah, so over the last week I've just been feeling some symptoms. It kind of first started with, like a runny nose. That",CC0 1.0,1317,False,True,False
+osce-RES0074,osce-respiratory,Pulmonology,"Yeah, so I've just been feeling a bit off over the last week. First I started having like, just a scratchy throat and th",CC0 1.0,1218,False,True,False
+osce-RES0075,osce-respiratory,Pulmonology,"Yeah, so uh, just randomly like 2 days ago I just started having this chest pain when I'm breathing and it's just been g",CC0 1.0,1081,False,True,False
+osce-RES0076,osce-respiratory,Pulmonology,"Uh, I've had this cough ongoing for a couple of months now, uhm, and recently I've started to notice some blood.",CC0 1.0,1527,False,True,False
+osce-RES0077,osce-respiratory,Pulmonology,"Yeah, so I've had this cough, ongoing now for the last three days and I found I've had a more difficult time breathing a",CC0 1.0,1591,False,True,False
+osce-RES0078,osce-respiratory,Pulmonology,I've been having difficulties breathing over these last few days.,CC0 1.0,1108,False,True,False
+osce-RES0079,osce-respiratory,Pulmonology,"Yeah I've had, a fever and a cough that started just like four days ago.",CC0 1.0,830,False,True,False
+osce-RES0080,osce-respiratory,Pulmonology,"Yeah, I'm just feeling, so, I do have COPD, but I just feel so much worse. I do have shortness of breath, but I think it",CC0 1.0,1197,False,True,False
+osce-RES0081,osce-respiratory,Pulmonology,"Hi, my son Dave who's 5 years old, who comes to the clinic quite often, has uh, his asthma has been really bad over the ",CC0 1.0,1406,False,True,False
+osce-RES0082,osce-respiratory,Pulmonology,"I've been having, uhh, like, nasal congestion and I've been sneezing a lot, over these last couple of days, and I've als",CC0 1.0,905,False,True,False
+osce-RES0083,osce-respiratory,Pulmonology,"I've been feeling really, just, bad these last couple of days. I've had these, uh, muscle aches and headache and cough t",CC0 1.0,971,False,True,False
+osce-RES0084,osce-respiratory,Pulmonology,"Hi Faiha, I've been very concerned lately. This past week I, first just started having this really bad headache and then",CC0 1.0,1525,False,True,False
+osce-RES0085,osce-respiratory,Pulmonology,"Yeah, so I just brought my son, went to the hospital. I've just been getting very concerned because he's making like the",CC0 1.0,932,False,True,False
+osce-RES0086,osce-respiratory,Pulmonology,"Yeah, so I just came in today, I actually had asthma as a kid and I used to be on the puffers and it pretty much resolve",CC0 1.0,1468,False,True,False
+osce-RES0087,osce-respiratory,Pulmonology,"Yeah, I'm just coming in with my son, he's been having, he's been complaining of just, seems like pain in his right ear ",CC0 1.0,1316,False,True,False
+osce-RES0088,osce-respiratory,Pulmonology,"Yeah, so my daughter, she's had this hoarse voice for the past like two or three days. It doesn't seem to be getting bet",CC0 1.0,1351,False,True,False
+osce-RES0089,osce-respiratory,Pulmonology,"Sure, I've been feeling very short of breath for the past, uh, two weeks, but even before that, I started feeling a litt",CC0 1.0,1784,False,True,False
+osce-RES0090,osce-respiratory,Pulmonology,"Yeah, um, so I have been, I have this cough, I'm coughing up blood so that's made me a little bit worried, um, so I thou",CC0 1.0,1186,False,True,False
+osce-RES0091,osce-respiratory,Pulmonology,"Uhm, so I've had this runny nose, well first it was a stuffy nose, but now I've had this runny nose for the past week an",CC0 1.0,880,False,True,False
+osce-RES0092,osce-respiratory,Pulmonology,"Yeah, so I've had this cough now, it's been going on for about two weeks, just, just hasn't gone away.",CC0 1.0,807,False,True,False
+osce-RES0093,osce-respiratory,Pulmonology,"Yeah, so I've had this cough that started within the last day and uhm, I've also been particularly short of breath as we",CC0 1.0,1572,False,True,False
+osce-RES0094,osce-respiratory,Pulmonology,"I've, uh, had a runny nose over the last few days and I've started to have a sore throat as well.",CC0 1.0,778,False,True,False
+osce-RES0095,osce-respiratory,Pulmonology,"I've had, uh, worsening, uhm, shortness of breath, uhm, for the past couple of days.",CC0 1.0,1462,False,True,False
+osce-RES0096,osce-respiratory,Pulmonology,"Uh, I have just been feeling very short of breath recently.",CC0 1.0,1278,False,True,False
+osce-RES0097,osce-respiratory,Pulmonology,"Hi, I'm, I'm the mom of the patient and I just wanted to talk to you about the, just about Thomas here. He's just been n",CC0 1.0,1334,False,True,False
+osce-RES0098,osce-respiratory,Pulmonology,"So, I just came in here because for the last day I've been just getting shortness of breath. I recently, yesterday actua",CC0 1.0,1443,False,True,False
+osce-RES0099,osce-respiratory,Pulmonology,"So yeah I've been having for the last two days, uh, it just started randomly. I had to miss work, Just a headache starte",CC0 1.0,1523,False,True,False
+osce-RES0100,osce-respiratory,Pulmonology,"Umm, yeah so I just came in today with, I've been having a few symptoms for the last I would say 5 days. So I've had, it",CC0 1.0,1720,False,True,False
+osce-RES0101,osce-respiratory,Pulmonology,"Hi, so yeah I I'm really worried. I started coughing up blood this morning, and for the last two days I've been having s",CC0 1.0,1390,False,True,False
+osce-RES0102,osce-respiratory,Pulmonology,"I I've had this cough that's been ongoing and and getting worse, and and now I've been having this like sharp pain in my",CC0 1.0,1985,False,True,False
+osce-RES0103,osce-respiratory,Pulmonology,"Yeah, I'm just bringing in my old daughter who's really been complaining about having a runny nose and has been sneezing",CC0 1.0,1068,False,True,False
+osce-RES0104,osce-respiratory,Pulmonology,"So I've had this, uh, this cough that it started two days ago and it's been getting worse. I've been bringing up this ru",CC0 1.0,1523,False,True,False
+osce-RES0105,osce-respiratory,Pulmonology,"Yeah, I've had, I've had a cough for a number of years now, but store these past like day, it's gotten a lot quite a bit",CC0 1.0,1677,False,True,False
+osce-RES0106,osce-respiratory,Pulmonology,"I've had, I've had this cough for the past two weeks. I was just worried about it.",CC0 1.0,1256,False,True,False
+osce-RES0107,osce-respiratory,Pulmonology,Hi I'm here with my son and he's just been feeling awful. He just has this runny nose and he's been sneezing all the tim,CC0 1.0,1588,False,True,False
+osce-RES0108,osce-respiratory,Pulmonology,"Hi. Uh, I've just had this cough for the past week and I was worried I might have Covid so I just wanted to um I just wa",CC0 1.0,964,False,True,False
+osce-RES0109,osce-respiratory,Pulmonology,"Hi, I've just had a runny nose and a cough for the past uh week.",CC0 1.0,872,False,True,False
+osce-RES0110,osce-respiratory,Pulmonology,"Hi, um so for the past week or so I've um I've had this cough um and some shortness of breath. I feel hot and I just fee",CC0 1.0,1630,False,True,False
+osce-RES0111,osce-respiratory,Pulmonology,"Hi, um I'm here because I've had this awful sore throat for the past four days. Doesn't seem to be getting any better an",CC0 1.0,997,False,True,False
+osce-RES0112,osce-respiratory,Pulmonology,"Yeah, I brought my son here. I'm a little bit worried about him because like yesterday he had he had this temperature of",CC0 1.0,856,False,True,False
+osce-RES0113,osce-respiratory,Pulmonology,"Um yeah, so I'm here because I've had this fever, this cough, and now my head hurts. That's been going on for about the ",CC0 1.0,1117,False,True,False
+osce-RES0114,osce-respiratory,Pulmonology,"Yeah, so um I just came in because uh so I I have this cough that's been going on for the last five years, but over the ",CC0 1.0,1713,False,True,False
+osce-RES0116,osce-respiratory,Pulmonology,"Yeah, so uh I'm just bringing my son uh here to the clinic. He's been having um just I think he's been complaining of uh",CC0 1.0,1629,False,True,False
+osce-RES0117,osce-respiratory,Pulmonology,"Yeah, so I just came in today uh a bit concerned. Uh I've been just having this nasty cough for like the last week and t",CC0 1.0,985,False,True,False
+osce-RES0118,osce-respiratory,Pulmonology,Hi I'm coming in because I've had this like on and off runny nose and stuffy nose for the past week. Um and I just came ,CC0 1.0,981,False,True,False
+osce-RES0119,osce-respiratory,Pulmonology,"Um yeah, so I brought my 7 year old daughter here um because she's been coughing uh a lot over the past two weeks. Um sh",CC0 1.0,1393,False,True,False
+osce-RES0120,osce-respiratory,Pulmonology,"Hi, um so I've been very I've been, I haven't been feeling very well for the past four days. I've, I've been having chil",CC0 1.0,1385,False,True,False
+osce-RES0121,osce-respiratory,Pulmonology,"Yeah hi, I've had this cough, um, for the past four days and it just can't, it won't go away. So, I was just wondering i",CC0 1.0,980,False,True,False
+osce-RES0122,osce-respiratory,Pulmonology,"Uh, yeah, so I, I just came in because I've been having, for the last, I would say 2 weeks, just a lot of congestion in ",CC0 1.0,1071,False,True,False
+osce-RES0123,osce-respiratory,Pulmonology,"So I've been, just over the last week, I've been feeling pretty sick. I have this pretty bad headache that started like ",CC0 1.0,1752,False,True,False
+osce-RES0124,osce-respiratory,Pulmonology,"Uh yeah, hi, I just came in here today cause uh, lately, for the last couple of months, I've been getting these coughing",CC0 1.0,1776,False,True,False
+osce-RES0125,osce-respiratory,Pulmonology,"Hi, I'm um, I'm just, so I am here because I have this cough that I've had for the past um, week and a half, and I'm jus",CC0 1.0,1649,False,True,False
+osce-RES0126,osce-respiratory,Pulmonology,"Hi I am having difficulties breathing and I've just had this cough and it's, It's been two months now.",CC0 1.0,1790,False,True,False
+osce-RES0127,osce-respiratory,Pulmonology,"Hi, I've I've just been. I've been sneezing a lot and I have this runny nose. It's just been very irritating. I kind of ",CC0 1.0,1421,False,True,False
+osce-RES0128,osce-respiratory,Pulmonology,"Hi so I brought my 6 year old son in today because yesterday during soccer practice, he he developed this pretty severe ",CC0 1.0,1061,False,True,False
+osce-RES0129,osce-respiratory,Pulmonology,I just bringing my son in today because he's had this cough that's been going on for a few days now and for these past t,CC0 1.0,1042,False,True,False
+osce-RES0130,osce-respiratory,Pulmonology,"Yeah, I've had uh, a cough that's been um, bugging me for the last several months now, and more recently I've noticed th",CC0 1.0,1357,False,True,False
+osce-RES0131,osce-respiratory,Pulmonology,"Hi there, I, I've had this cough that started um, three days ago, and over these past couple of days, I've just been rea",CC0 1.0,1245,False,True,False
+osce-RES0132,osce-respiratory,Pulmonology,"Yeah hi, um, I have been coughing nonstop for the past three days, and today I have been feeling very short of breath. S",CC0 1.0,1388,False,True,False
+osce-RES0133,osce-respiratory,Pulmonology,"Hi, um, I'm here because I, I had this cough for a couple days and now my voice still hasn't recovered. It sounds really",CC0 1.0,1291,False,True,False
+osce-RES0134,osce-respiratory,Pulmonology,"Yeah, um I haven't been feeling very well over the past two days. I have had this cough, I'm feeling very short of breat",CC0 1.0,1740,False,True,False
+osce-RES0135,osce-respiratory,Pulmonology,"Hi um, I'm bringing my one year old daughter in because she's had this fever um, this runny nose and this cough, for the",CC0 1.0,1284,False,True,False
+osce-RES0136,osce-respiratory,Pulmonology,"I just started having, um, difficulty with breathing um, starting yesterday. And I also developed this cough um, yesterd",CC0 1.0,1272,False,True,False
+osce-RES0137,osce-respiratory,Pulmonology,"I am here with uh, with my daughter, who has just been having a cough for the past um, two weeks.",CC0 1.0,1267,False,True,False
+osce-RES0138,osce-respiratory,Pulmonology,"Um, I've just had difficulties with breathing for the past, I want to say eight, nine months. And um, my wife just told ",CC0 1.0,1175,False,True,False
+osce-RES0139,osce-respiratory,Pulmonology,"Um, I'm just, I'm here because I've had this cough for the past two weeks and uh, it's just not going away.",CC0 1.0,1152,False,True,False
+osce-RES0140,osce-respiratory,Pulmonology,"Hi, I just came in uh, I just had this sudden, just this morning after I woke up, this sudden shortness of breath and li",CC0 1.0,920,False,True,False
+osce-RES0141,osce-respiratory,Pulmonology,"Hi, so I just came in today because I've been just been feeling um, like my head's just been hurting for the past three ",CC0 1.0,1001,False,True,False
+osce-RES0142,osce-respiratory,Pulmonology,"Hi um, yeah so I, I just came here today um, because I've just been feeling um, like I have this really sore throat for ",CC0 1.0,835,False,True,False
+osce-RES0143,osce-respiratory,Pulmonology,"Hi, uh, so I just came here today uh, I've been having this cough for um, the last two weeks and it just, is not going a",CC0 1.0,1155,False,True,False
+osce-RES0144,osce-respiratory,Pulmonology,"Hi, yes, I just brought my son to the ER. We've noticed in the last two days he's been just making these grunting noises",CC0 1.0,1129,False,True,False
+osce-RES0145,osce-respiratory,Pulmonology,"Yeah, I've had a sore throat that's been really bugging me the past four days and I've had a cough as well.",CC0 1.0,1284,False,True,False
+osce-RES0146,osce-respiratory,Pulmonology,"Uh, yesterday, right after leaving work I started to not feel well and this morning I woke up with fever, ah, this like ",CC0 1.0,877,False,True,False
+osce-RES0147,osce-respiratory,Pulmonology,I've just had this cough that it that has gotten a lot worse and really short of breath.,CC0 1.0,1253,False,True,False
+osce-RES0148,osce-respiratory,Pulmonology,"Hi, I've had um I've had a cough for the past um three days and uh I also developed a fever, um I think, so I checked it",CC0 1.0,1213,False,True,False
+osce-RES0149,osce-respiratory,Pulmonology,Hi I um I just developed uh or I guess I just started having difficulties with uh breathing starting this morning. It wa,CC0 1.0,1334,False,True,False
+osce-RES0150,osce-respiratory,Pulmonology,"Hi, um my son has just been sick over the past uh couple of days. He's just had this cough and uh stuffy nose and uhm, y",CC0 1.0,1206,False,True,False
+osce-RES0151,osce-respiratory,Pulmonology,"Hi yes I'm just coming in, uh over the last week, I've been having um like a cough, runny nose and a lot of congestion a",CC0 1.0,1203,False,True,False
+osce-RES0152,osce-respiratory,Pulmonology,Hi uh nice to meet you. I've just uh been experiencing um a cough for the last few weeks and uh I also recently started ,CC0 1.0,1106,False,True,False
+osce-RES0153,osce-respiratory,Pulmonology,"Hi, I've been um just having this just sore throat for the last uh let's say three or four days.",CC0 1.0,1155,False,True,False
+osce-RES0154,osce-respiratory,Pulmonology,"Hi, so yeah I just came to the hospital because I've just been feeling over the last um few days uh just I can't really ",CC0 1.0,998,False,True,False
+osce-RES0155,osce-respiratory,Pulmonology,"Yeah, so over this past five days I've had um worsening shortness of breath and uh some discomfort in my chest um and th",CC0 1.0,1497,False,True,False
+osce-RES0156,osce-respiratory,Pulmonology,"Yeah, so I'm bringing my um daughter because uh over these last uh several months she's had this uh this cough that that",CC0 1.0,1065,False,True,False
+osce-RES0158,osce-respiratory,Pulmonology,"I've had uh a new cough that started um this week, it's been going on the last like three or four days and um I've had a",CC0 1.0,1107,False,True,False
+osce-RES0159,osce-respiratory,Pulmonology,"Hi uh so I just came in today uh I've kind of put it off for a bit, but I've been having this cough uh for the last five",CC0 1.0,1130,False,True,False
+osce-RES0160,osce-respiratory,Pulmonology,"Hi, yes. Thank you for seeing me. I just came in today because I've been having for the last week this cough and recentl",CC0 1.0,1108,False,True,False
+osce-RES0161,osce-respiratory,Pulmonology,"Hi, so yeah, so I just came in here today at I've been having just this congestion around my nose and face like it's jus",CC0 1.0,1002,False,True,False
+osce-RES0162,osce-respiratory,Pulmonology,"Hi, I am just coming in because for the last couple of months but I've been having this, these coughing fits. Are there ",CC0 1.0,1196,False,True,False
+osce-RES0163,osce-respiratory,Pulmonology,"Hey, I just, um, I just kind of came in to talk about my stuffy nose. It's yeah, it's been a problem for, I don't even k",CC0 1.0,1166,False,True,False
+osce-RES0164,osce-respiratory,Pulmonology,"Hey, I'm I'm the mom of, of the patient. He's he's a kid, he has had, he just had a cough and stuffy nose for the past t",CC0 1.0,1211,False,True,False
+osce-RES0165,osce-respiratory,Pulmonology,"Um, I just I've had a cough and I've had a sore throat for the past two days and I was just worried that I might have CO",CC0 1.0,896,False,True,False
+osce-RES0166,osce-respiratory,Pulmonology,"I've just been feeling really short of breath since this morning, and I don't, uh yeah I don't know what's going on.",CC0 1.0,1130,False,True,False
+osce-RES0167,osce-respiratory,Pulmonology,"I've just had a real like a real bad cough. Umm, it's been going on for 4 or 5 days now umm, and I'm just, I'm having so",CC0 1.0,1140,False,True,False
+osce-RES0168,osce-respiratory,Pulmonology,So I've just I had some sinus problems in the past. I've had some sinus infections and I just feel like I have one right,CC0 1.0,1276,False,True,False
+osce-RES0169,osce-respiratory,Pulmonology,"I I've been having uh, this fever, the last couple of days and I've had a cough as well and my nose is, keeps running.",CC0 1.0,920,False,True,False
+osce-RES0170,osce-respiratory,Pulmonology,I'm just bringing my son today because he's been how many episodes where I'm eat hell gets all this coughing fit and bec,CC0 1.0,1307,False,True,False
+osce-RES0171,osce-respiratory,Pulmonology,"Yeah, I've had a shortness of breath, and even at at rest. Really, feeling like it's difficult to breathe, and when I ta",CC0 1.0,1318,False,True,False
+osce-RES0172,osce-respiratory,Pulmonology,"So two days ago I started to have this cough. Came out of nowhere. I haven't had a cough before and I, just today I've n",CC0 1.0,1152,False,True,False
+osce-RES0173,osce-respiratory,Pulmonology,"I'm I'm here because I, I've oddly been feeling really short of breath and have a fever or and a cough.",CC0 1.0,1220,False,True,False
+osce-RES0174,osce-respiratory,Pulmonology,"Hi I just want to talk about these, these times when I feel like I'm just I'm suffocating and I just can't breathe. It's",CC0 1.0,1493,False,True,False
+osce-RES0175,osce-respiratory,Pulmonology,"Hey, I've just been feeling kind of ill over the past two days and uh, I thought I'd just come in to see what's going on",CC0 1.0,1006,False,True,False
+osce-RES0176,osce-respiratory,Pulmonology,I um. I just haven't been feeling very well over the past couple months. And I have decided I just come in and see what',CC0 1.0,1279,False,True,False
+osce-RES0177,osce-respiratory,Pulmonology,"I brought my son in today because he had a fever that started two days ago and, and then since then he he's had a cough ",CC0 1.0,1163,False,True,False
+osce-RES0178,osce-respiratory,Pulmonology,"Yeah so I'm bringing in my year old son here with, I because he's had a fever and and a cough and a runny nose. These sy",CC0 1.0,1093,False,True,False
+osce-RES0179,osce-respiratory,Pulmonology,"Uh, I've had this cough. It's been going on now for like last six months or so and been losing some weight as well. I've",CC0 1.0,1267,False,True,False
+osce-RES0180,osce-respiratory,Pulmonology,"Hi I umm, so I started to have this cough that started like 2 days ago and also these last couple of days I've just had ",CC0 1.0,1029,False,True,False
+osce-RES0181,osce-respiratory,Pulmonology,"Hi, umm, so I've had a sore throat for the past three days and it doesn't seem to be getting any better, and I've also h",CC0 1.0,1175,False,True,False
+osce-RES0182,osce-respiratory,Pulmonology,"Hi, yeah, I'm here because I'm over the past like couple of months I've been losing a lot of weight. Uhm, but I didn't r",CC0 1.0,932,False,True,False
+osce-RES0183,osce-respiratory,Pulmonology,"Hi there, I brought in my here because he's been barking, well not barking, he's had this cough that sounds like a barki",CC0 1.0,1196,False,True,False
+osce-RES0184,osce-respiratory,Pulmonology,"Hi there, umm, so I've had this runny nose for the past five days and it doesn't seem to be going away so I thought I sh",CC0 1.0,957,False,True,False
+osce-RES0185,osce-respiratory,Pulmonology,"I've I I've had a, ah really runny nose and kind of feeling like like my nose has been obstructed. And I've kind of had ",CC0 1.0,1035,False,True,False
+osce-RES0186,osce-respiratory,Pulmonology,"Hi there, I've been having this uhm, cough that's been ongoing for the past two days, and I've started to become short o",CC0 1.0,1034,False,True,False
+osce-RES0187,osce-respiratory,Pulmonology,"Hi, I'm just coming in here today because I've been just on wall recently over the last, I would say three to four days.",CC0 1.0,1284,False,True,False
+osce-RES0188,osce-respiratory,Pulmonology,"Hi, I was just really worried. My son just yesterday night I noticed that he was making these grunting noises and I did ",CC0 1.0,939,False,True,False
+osce-RES0189,osce-respiratory,Pulmonology,So I've been having a lot of trouble in the last two weeks of especially this past week of just a lot of shortness of br,CC0 1.0,1415,False,True,False
+osce-RES0190,osce-respiratory,Pulmonology,"Yes, I just came in here today. I I've just been. Really getting like the soreness in my throat for the past, I would sa",CC0 1.0,1274,False,True,False
+osce-RES0191,osce-respiratory,Pulmonology,"Hi I'm, I have been having this nasal obstruction and discharge for the past week and it doesn't seem to be going away a",CC0 1.0,916,False,True,False
+osce-RES0192,osce-respiratory,Pulmonology,"Hi, I'm I'm coming in because um I've had a lot of shortness of breath and I I've had this cough that won't seem to go a",CC0 1.0,1289,False,True,False
+osce-RES0193,osce-respiratory,Pulmonology,"Hi, I bring you my son today because I've noticed he's had been having this cough sometimes he’ll have it at night and a",CC0 1.0,1420,False,True,False
+osce-RES0194,osce-respiratory,Pulmonology,"Hi, I’ve come in today because I had this cough. It started three days ago and since that time I've also started to have",CC0 1.0,1364,False,True,False
+osce-RES0195,osce-respiratory,Pulmonology,"Yeah hi, I'm so over the past few months I've noticed that I get short of breath sometimes. And my eyes are so irritated",CC0 1.0,1330,False,True,False
+osce-RES0196,osce-respiratory,Pulmonology,"Yes, I brought in my daughter. She's 8 years old. So recently she's been telling me she's having a lot of ear pain. And ",CC0 1.0,928,False,True,False
+osce-RES0197,osce-respiratory,Pulmonology,"Yeah, hi, I'm so I have been very wheezy for the past week um and I'm also like consistently coughing all the time and i",CC0 1.0,951,False,True,False
+osce-RES0198,osce-respiratory,Pulmonology,"Um hi, yeah I've had the stuffy nose um that's been on and off, as well as a runny nose for the past week and it doesn't",CC0 1.0,847,False,True,False
+osce-RES0199,osce-respiratory,Pulmonology,"Hi I just came in today I have been having, just been feeling really sick over the last three or four days. It started w",CC0 1.0,1125,False,True,False
+osce-RES0200,osce-respiratory,Pulmonology,Hey I I came in here today I I just was feeling just a bit short of breath over the last few days and I've had a so I no,CC0 1.0,1324,False,True,False
+osce-RES0201,osce-respiratory,Pulmonology,"Thats great, thank you.",CC0 1.0,1031,False,True,False
+osce-RES0202,osce-respiratory,Pulmonology,"Hi. So I just brought in my son he's 5. Essentially, when he, so today is Friday when he got home from school on Wednesd",CC0 1.0,1490,False,True,False
+osce-RES0203,osce-respiratory,Pulmonology,"Yeah, so for the past two days I I've I've noticed that I can't smell things as well, as I used to be able to smell them",CC0 1.0,912,False,True,False
+osce-RES0204,osce-respiratory,Pulmonology,"Yeah, that sounds great. Thank you.",CC0 1.0,971,False,True,False
+osce-RES0205,osce-respiratory,Pulmonology,Yeah.,CC0 1.0,1022,False,True,False
+osce-RES0206,osce-respiratory,Pulmonology,So I so I have COPD and it's usually like pretty manageable with my puffers and that. But just in the last like 3 days I,CC0 1.0,1328,False,True,False
+osce-RES0207,osce-respiratory,Pulmonology,"Yeah, I woke up this morning and I was just feeling suddenly feeling very short of breath and I just wasn't sure what wa",CC0 1.0,800,False,True,False
+osce-RES0208,osce-respiratory,Pulmonology,"Hey, so I just for the last couple days I've just been feeling really short of breath really rundown. Just like super ti",CC0 1.0,1265,False,True,False
+osce-RES0209,osce-respiratory,Pulmonology,"OK, I'm so I have been coughing a lot over the past week or so. And it's been pretty dry, but I've been coughing like al",CC0 1.0,1075,False,True,False
+osce-RES0210,osce-respiratory,Pulmonology,"Yeah, I've noticed I've had this pretty bad cough for like the last couple of days. A little bit worried. Wanna talk to ",CC0 1.0,1114,False,True,False
+osce-RES0211,osce-respiratory,Pulmonology,Hi so I just like for I don't know like three or four days I’ve been having this really dry cough and my throat feels re,CC0 1.0,1355,False,True,False
+osce-RES0212,osce-respiratory,Pulmonology,"Hey, uh I just had this cough that's been like really bothering me.",CC0 1.0,1268,False,True,False
+osce-RES0213,osce-respiratory,Pulmonology,Chest pain.,CC0 1.0,1417,False,True,False
+osce-RES0214,osce-respiratory,Pulmonology,"Hi, um so I've had this terrible fever for the past three days um and just before that I had a stuffy nose um and I had ",CC0 1.0,1128,False,True,False
+osce-RES0215,osce-respiratory,Pulmonology,"Um yeah hi, I brought I brought my 8 year old daughter here um because I've noticed that she's been quite wheezy um for ",CC0 1.0,1379,False,True,False
+osce-RES0216,osce-respiratory,Pulmonology,"Yeah, it's uh, for the last maybe three days, um it's not really pain, not in any specific spot, it just feels a bit tig",CC0 1.0,1561,False,True,False
+osce-RES0217,osce-respiratory,Pulmonology,"Yes I did, it was uh it was behind my left uh knee kind of in like the joint behind where it bends. Um it was stuck pret",CC0 1.0,1456,False,True,False

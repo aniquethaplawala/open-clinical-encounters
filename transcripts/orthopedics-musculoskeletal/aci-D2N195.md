@@ -1,0 +1,130 @@
+# Right knee pain
+
+| | |
+|---|---|
+| Specialty | Orthopedics & musculoskeletal |
+| Source | [aci-bench](https://github.com/wyim/aci-bench) `D2N195` |
+| License | CC BY 4.0 |
+| How it was recorded | role-played visit, natural conversation |
+| Length | 1,437 words, 55 turns |
+| Patient | 40-year-old male |
+
+Citation: Yim et al. 2023, Scientific Data, doi:10.1038/s41597-023-02487-3
+
+## Transcript
+
+**Doctor:** Hey matthew how is it going good to see you today i see here in your notes you are here for some right knee pain and we are also going to check up on your hypertension and diabetes so can you tell me what happened to your knee  
+**Patient:** Yes so i was playing basketball yesterday and when i went up for a rebound and i came down and i felt like my knee just popped it started swelling and i could hardly walk when it happened  
+**Doctor:** Okay playing basketball how often do you play basketball  
+**Patient:** First time in two years  
+**Doctor:** First time in two years did you watch the game last night  
+**Patient:** Yeah unfortunately both teams didn't lose so i was unhappy  
+**Doctor:** You're going home who you going for  
+**Patient:** Neither  
+**Doctor:** Neither well i was going for unc i'm kinda i'm kinda upset right now but anyway so you say you're playing basketball you you heard felt some knee your knee pop what part of your knee would you say hurts  
+**Patient:** It feels like it's on the inside of the knee  
+**Doctor:** Inside of your knee alright and are you able to bear weight on that leg matthew  
+**Patient:** I can now but i i'm favoring it for sure  
+**Doctor:** Okay so what type of pain would you describe as it is it stabbing is it  
+**Patient:** It's real achy  
+**Doctor:** Real achy  
+**Patient:** Since i slept overnight the swelling has went down some  
+**Doctor:** Okay have you taken anything for the pain yet  
+**Patient:** I tried some tylenol yesterday  
+**Doctor:** Alright did that work for you  
+**Patient:** A little  
+**Doctor:** Little do you have any  
+**Patient:** Being off of it help more than anything  
+**Doctor:** Yeah i be i bet i bet i i hurt my knee before too and it's it's pretty painful on a scale of one to ten what would you say your your pain level is  
+**Patient:** It's about a four right now  
+**Doctor:** About a four okay so it's it's not too bad alright so we'll take a look at that knee in a second so we're also here to check up on your hypertension and diabetes so i'm looking here for your hypertension you're taking five milligrams of norvasc so are you taking that daily  
+**Patient:** Yes  
+**Doctor:** Yes great i i i'm so happy when my patients are compliant most of the times they don't take it as as often but i'm i'm really excited for that what have your blood pressures been running i think today  
+**Patient:** You're about one forty over eighty it's a little bit high but i know we we talked about you getting a blood pressure cuff at home and taking those so i don't check it very often  
+**Doctor:** Okay  
+**Patient:** But it's usually in the one forties to one fifties range on that top number and then that bottom number is usually around eighty and i read on the google that that's okay is that okay  
+**Doctor:** I mean it's it's not the best right it's it's we should be around one twenty over eighty right  
+**Patient:** Okay  
+**Doctor:** You're a little bit elevated and we could talk about changing your medications to try to get that that down how about your diet how's that going  
+**Patient:** I eat anything i want  
+**Doctor:** Alright well we we definitely got ta got ta get your your diet a little bit better i know after the pandemic a lot of people you know went crazy with the diet myself included but i know we got ta get you get back in because for your diabetes i'm looking at your a1c and we we checked it and it was a a seven point two which is not so good right now so have you been taking i think you're on metformin five hundred milligrams daily  
+**Patient:** I do but i got ta take it sometimes it upsets my stomach and so i just kinda skip it  
+**Doctor:** Okay so yeah we definitely got ta get you to to take it we could try something else just if you're having interaction with that medication what about your blood sugars are they taking those daily  
+**Patient:** No every once in a while  
+**Doctor:** Every once in a while what have they been doing every once in a while when when you do take them  
+**Patient:** Probably about a hundred and fifty or so  
+**Doctor:** Okay so we got to get those down too so we will talk about getting you consult nutrition just try to get you a better diet i think you know we wan na get you off the medications totally but you know we got ta get you on the right track here alright so let me do a quick physical exam on you i'm gon na check your your your lungs lungs sound good check your heart so listen to your heart you still do have that grade two out of systolic ejection murmur alright but we we knew about that already you've had that for a couple of years so i'm not really worried about that at this at this time so let me take a look at your knee here so when i press right here on the inside the right knee is that painful  
+**Patient:** Ow  
+**Doctor:** Ow alright and let me have you bend it straighten it it's painful  
+**Patient:** A little yes  
+**Doctor:** A little bit alright i'm gon na do a couple of maneuvers here so your your right knee exam shows that you do have pain to palpation of the medial aspect of that right knee also have some edema some little bit of swelling some ecchymosis as well you do have a negative varus and valgus test of my maneuvers and you know i i do see a little bit of of swelling swelling little redness as well in that knee so we did get an x-ray of your knee your right knee luckily it was normal so there's no fractures no bony abnormalities which is good so you didn't break anything so based on my your based on your x-ray and your exam you have a mcl tear well mcl strain i apologize mcl is straight i don't know if you have a tear yet we got ta do yeah we had to have to do a mri for that but basically means you twisted your knee when you're playing basketball right and so that ligament is strained or torn just to have to get an mri to determine if it is or not in the time being i want you to continue to take that tylenol just to help with that pain i'm also gon na prescribe you some meloxicam fifteen milligrams just to help with the pain and swelling i'm gon na put you in a knee immobilizer and i want you to stay off of that for the next couple of weeks and we're gon na get a mri as well for that knee how does that sound  
+**Patient:** That's okay  
+**Doctor:** Alright for your diabetes i'm going to need you we got to get you to start taking your your blood sugars daily we got to keep track of those alright so i want you to take those daily we'll get a log book so you can keep track of those and bring those back and we can determine how we adjust your medications for now also i'm going to give you a consult to nutrition to try to get your diet a little bit better and then for your hypertension i'm gon na up your medication up up up up your norvasta five milligrams because your blood pressure is a little bit high and hopefully we can a medication adjustment will lower it down to that one twenty over eighty like we like we made alright so i'm going to see you back in two weeks do you have any other questions  
+**Patient:** Yes so i heard strawberries can lower your blood pressures are you truth to that  
+**Doctor:** You know i i haven't i haven't heard that before you know  
+**Patient:** You know i know it's normally they say like the the pumice granite seeds or antioxidants and and such but the strawberries i i haven't heard you can try it if you want actually no i i don't want you to eat too many strawberries because a lot of sugar in your in your  
+**Doctor:** Your diabetes isn't going so low right now so stay away from the strawberries because that's a lot of sugar you'll need that  
+**Patient:** Sure  
+**Doctor:** Alright so any other questions  
+**Patient:** I i think i'm okay right now  
+**Doctor:** Alright so my nurse will be in with that appointment and we will see you in two weeks  
+
+## Reference note (written by the dataset authors)
+
+CHIEF COMPLAINT
+
+Right knee pain
+
+HISTORY OF PRESENT ILLNESS
+
+Matthew Allen is a pleasant 40-year-old male who presents to the clinic today for the evaluation of right knee pain. The onset of his pain began yesterday after he went up for a rebound while playing basketball and felt a pop in his knee. He states that he experienced swelling and difficulty with ambulation following this incident. He locates his pain today to the medial aspect of his knee. His pain is described as aching and is rated at 4 out of 10. In terms of his swelling, he states that this has improved some. He is also able to weight-bear, but he finds that he is favoring his left leg while doing so. His tried treatments include Tylenol with some relief as well as rest.
+
+The patient has a history of hypertension and diabetes. He reports that he does not check is blood pressure at home very often, but he typically runs 140 to 150 range over 80. He is taking 5 mg of Norvasc daily. In terms of his diet, he states that he enjoys eating whatever he likes. His most recent A1C was 7.2. He is taking metformin 500 mg daily, however there are days where he skips this because of gastrointestinal upset. He denies checking his blood sugar at home consistently and that when he does check he has been around 150.
+
+MEDICAL HISTORY
+
+Patient reports history of hypertension and diabetes.
+
+SOCIAL HISTORY
+
+Patient reports playing basketball, however this most recent event was the first time he played in 2 years.
+
+MEDICATIONS
+
+Patient reports he is taking Norvasc 5 mg daily, metformin 500 mg daily, and Tylenol.
+
+REVIEW OF SYSTEMS
+
+Musculoskeletal: Reports right knee pain and swelling.
+
+VITALS
+
+Blood pressure is 140/80 today.
+
+PHYSICAL EXAM
+
+CV: Grade 2/6 systolic ejection murmur.
+RESPIRATORY: Normal respiratory effort no respiratory distress
+MSK: Examination of the right knee: Pain with palpation over the medial aspect. Mild pain with flexion and extension. Edema, swelling, and ecchymosis noted. Mild redness. Negative varus and valgus stress test with firm endpoint.
+
+RESULTS
+
+4 views of the right knee were taken. These reveal no evidence of any fractures or dislocations. No other abnormalities are noted.
+
+ASSESSMENT
+
+Right knee MCL strain.
+Diabetes.
+Hypertension.
+
+PLAN
+
+After reviewing the patient's examination and radiographic findings today, I had a lengthy discussion with the patient in regards to his current symptoms. I have recommended that we obtain an MRI of the right knee to further evaluate for a possible MCL tear. In the meantime, he will continue with Tylenol for pain relief. I have also prescribed him meloxicam 15 mg for pain and swelling. He will be placed into a knee immobilizer and has been advised to remain non weight-bearing for the next couple of weeks.
+
+In terms of his diabetes, he was advised to start logging his blood sugars daily and to avoid eating large amounts of strawberries. He will also be provided with a referral for a consult with a nutritionist.
+
+For his hypertension, we are going to increase his Norvasc to 5 mg daily as his blood pressures have been elevated. We discussed our goal is for him to get closer to the 120/80 range.
+
+INSTRUCTIONS
+
+The patient will follow up with me in 2 weeks to review his MRI results.
