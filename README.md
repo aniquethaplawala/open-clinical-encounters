@@ -13,7 +13,7 @@ The data comes from four openly licensed research datasets. We converted all of 
 | [`data/catalog.csv`](data/catalog.csv) | One row per visit: specialty, reason for visit, length, note and audio flags |
 | [`transcripts/`](transcripts/INDEX.md) | 24 hand-picked visits across 11 specialties, formatted for reading |
 | [`audio-samples/`](audio-samples/) | 5 MP3 recordings that match showcase transcripts |
-| [`sully-synthetic/`](sully-synthetic/) | 5 Sully-written visits with notes: GI, pain, women's health, telehealth behavioral health, primary care. Also in [`data/sully_synthetic.jsonl`](data/sully_synthetic.jsonl) |
+| [`sully-synthetic/`](sully-synthetic/) | 5 Sully-written visits with notes: GI, pain, women's health, telehealth behavioral health, primary care. Also in [`data/sully_synthetic.jsonl`](data/sully_synthetic.jsonl) and as print-ready PDFs in [`sully-synthetic/pdf/`](sully-synthetic/pdf/) |
 | [`RESOURCES.md`](RESOURCES.md) | A map of everything else you need to build and evaluate a scribe |
 | [`scripts/`](scripts/) | The code that builds this repo from the original sources |
 
